@@ -1,0 +1,33 @@
+.profileback{
+    height: 300px;
+    width: 100%;
+    background: url("../../assets/img/full-screen-image-3.jpg") no-repeat;
+    background-size: cover;
+}
+.author{
+    text-align: left;
+    margin-left: 15%;
+}
+.author .title{
+    font-weight: 700;
+}
+.companyInfo{
+    display: flex;
+    align-items: center;
+}
+.companyInfo p, label{
+    margin: 0px 10px;
+    font-size: 20px;
+}
+.personalInfo i{
+    margin-right: 10px;
+}
+#about{
+    padding: 10px;
+}
+.personalInfo{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    
+}
